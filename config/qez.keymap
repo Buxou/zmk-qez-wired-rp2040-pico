@@ -30,7 +30,7 @@
             bindings = <
   &mt RIGHT_BRACKET Q  &kp W  &kp E         &kp R  &kp T                 &kp Y  &kp U          &kp I            &kp O            &mt LEFT_BRACKET P
   &kp A                &kp S  &kp D         &kp F  &kp G                 &kp H  &kp J          &kp K            &kp L            &mt APOS SEMICOLON
-  &kp Z                       &kp X         &kp C  &lt 3 V               &kp B  &lt 4 N        &kp M            &mt SLASH COMMA  &mt BACKSLASH DOT
+  &kp Z                       &kp X         &kp C  &kp V                 &kp B  &lt 4 N        &kp M            &mt SLASH COMMA  &mt BACKSLASH DOT
   &kp LCTRL                   &lt 2 ESCAPE         &mt LEFT_SHIFT SPACE         &mt TAB ENTER  &lt 1 BACKSPACE                   &kp LALT
             >;
         };

@@ -31,6 +31,11 @@
             bindings = <&kp DEL>;
             key-positions = <32 33>;
         };
+
+        WIN {
+            bindings = <&kp LEFT_WIN>;
+            key-positions = <28 27>;
+        };
     };
 
     keymap {
